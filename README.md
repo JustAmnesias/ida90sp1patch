@@ -39,3 +39,4 @@ This repository is created **for educational purposes only** and bla bla bla. (W
    - Now you can use IDA Pro 9.0sp1 with a license 🖤
 
 # By JustAmnesia for you with 🖤
+# If this helped you, consider leaving a star ⭐ on the repo.
